@@ -10,3 +10,7 @@ h1{
 pre{
     color: blue;
 }
+
+img{
+    border-radius: 5px;
+}
